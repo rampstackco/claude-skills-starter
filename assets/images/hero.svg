@@ -21,23 +21,23 @@
   <g transform="translate(126, 190)">
     <!-- Dev & QA: red -->
     <rect x="0" y="0" width="100" height="28" rx="14" fill="#dc2626" opacity="0.3"/>
-    <text x="50" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#fca5a5" font-weight="500">Dev &amp; QA &middot; 3</text>
+    <text x="50" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#fca5a5" font-weight="500">Dev &amp; QA &#183; 3</text>
 
     <!-- Design: purple -->
     <rect x="112" y="0" width="100" height="28" rx="14" fill="#7c3aed" opacity="0.3"/>
-    <text x="162" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#c4b5fd" font-weight="500">Design &middot; 3</text>
+    <text x="162" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#c4b5fd" font-weight="500">Design &#183; 3</text>
 
     <!-- Content: green -->
     <rect x="224" y="0" width="100" height="28" rx="14" fill="#059669" opacity="0.3"/>
-    <text x="274" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6ee7b7" font-weight="500">Content &middot; 5</text>
+    <text x="274" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6ee7b7" font-weight="500">Content &#183; 5</text>
 
     <!-- Product: orange -->
     <rect x="336" y="0" width="100" height="28" rx="14" fill="#ea580c" opacity="0.3"/>
-    <text x="386" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#fdba74" font-weight="500">Product &middot; 2</text>
+    <text x="386" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#fdba74" font-weight="500">Product &#183; 2</text>
 
     <!-- Meta: blue -->
     <rect x="448" y="0" width="100" height="28" rx="14" fill="#1e40af" opacity="0.3"/>
-    <text x="498" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#93c5fd" font-weight="500">Meta &middot; 1</text>
+    <text x="498" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#93c5fd" font-weight="500">Meta &#183; 1</text>
   </g>
 
   <!-- Subtle subtitle below badges -->
