@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/hero.svg" alt="Claude Skills Starter" width="800"/>
+</p>
+
 # Claude Skills Starter
 
 [![Skills](https://img.shields.io/badge/Skills-14-blue.svg)](#whats-included)

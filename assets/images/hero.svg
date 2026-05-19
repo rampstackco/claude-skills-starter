@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280">
+  <!-- Background -->
+  <rect width="800" height="280" fill="#0f172a" rx="12"/>
+
+  <!-- Subtle grid pattern (matches claude-skills-seo for family consistency) -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="280" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- Headline -->
+  <text x="400" y="100" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="42" fill="#f1f5f9">Claude Skills Starter</text>
+
+  <!-- Tagline -->
+  <text x="400" y="140" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="18" fill="#94a3b8">14 general-purpose skills for Claude Code</text>
+
+  <!-- Category badges (centered horizontally; 5 categories with skill counts) -->
+  <!-- Total badge group width: 5 * 100 + 4 * 12 = 548. Centered: (800-548)/2 = 126 -->
+  <g transform="translate(126, 190)">
+    <!-- Dev & QA: red -->
+    <rect x="0" y="0" width="100" height="28" rx="14" fill="#dc2626" opacity="0.3"/>
+    <text x="50" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#fca5a5" font-weight="500">Dev &amp; QA &middot; 3</text>
+
+    <!-- Design: purple -->
+    <rect x="112" y="0" width="100" height="28" rx="14" fill="#7c3aed" opacity="0.3"/>
+    <text x="162" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#c4b5fd" font-weight="500">Design &middot; 3</text>
+
+    <!-- Content: green -->
+    <rect x="224" y="0" width="100" height="28" rx="14" fill="#059669" opacity="0.3"/>
+    <text x="274" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6ee7b7" font-weight="500">Content &middot; 5</text>
+
+    <!-- Product: orange -->
+    <rect x="336" y="0" width="100" height="28" rx="14" fill="#ea580c" opacity="0.3"/>
+    <text x="386" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#fdba74" font-weight="500">Product &middot; 2</text>
+
+    <!-- Meta: blue -->
+    <rect x="448" y="0" width="100" height="28" rx="14" fill="#1e40af" opacity="0.3"/>
+    <text x="498" y="18" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#93c5fd" font-weight="500">Meta &middot; 1</text>
+  </g>
+
+  <!-- Subtle subtitle below badges -->
+  <text x="400" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#64748b" font-weight="400">Curated subset of claude-skills</text>
+</svg>
