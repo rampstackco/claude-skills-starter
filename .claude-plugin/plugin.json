@@ -1,0 +1,10 @@
+{
+  "name": "rampstack-starter",
+  "description": "Curated starter subset of the RampStack catalog: a general-purpose skill set for the website lifecycle.",
+  "version": "1.0.0",
+  "author": { "name": "RampStack" },
+  "homepage": "https://rampstack.co",
+  "repository": "https://github.com/rampstackco/claude-skills-starter",
+  "license": "MIT",
+  "keywords": ["agent-skills", "claude-skills", "starter", "web-development"]
+}
