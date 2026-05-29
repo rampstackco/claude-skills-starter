@@ -7,14 +7,14 @@
 [![Skills](https://img.shields.io/badge/Skills-14-blue.svg)](#whats-included)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A curated subset of the [claude-skills](https://github.com/rampstackco/claude-skills) catalog. 14 skills selected for broad applicability and low overlap, designed as the starting point for Claude Code users who want a focused skill set without loading the full 99-skill catalog.
+A curated subset of the [claude-skills](https://github.com/rampstackco/claude-skills) catalog. 14 skills selected for broad applicability and low overlap, designed as the starting point for Claude Code users who want a focused skill set without loading the full 102-skill catalog.
 
 ## Why a starter set
 
-The full claude-skills catalog has 99 skills across marketing, SEO, design, product, and development. That depth is useful for specialized work, but it has tradeoffs for everyday use:
+The full claude-skills catalog has 102 skills across marketing, SEO, design, product, and development. That depth is useful for specialized work, but it has tradeoffs for everyday use:
 
 - Claude Code performs better with fewer skills loaded (less context overhead, faster skill matching)
-- New users often find 99 skills hard to navigate
+- New users often find 102 skills hard to navigate
 - Many real projects only need a handful of skill categories
 
 claude-skills-starter solves this with 14 broadly useful skills covering the most common workflows: code review, QA, performance, frontend and design, content, SEO, conversion, product specs, and skill authoring.
@@ -91,7 +91,7 @@ This catalog is part of the Claude Skills family. Other family repos:
 
 | Repo | Focus | Skills |
 |---|---|---|
-| [claude-skills](https://github.com/rampstackco/claude-skills) | Full catalog | 99 |
+| [claude-skills](https://github.com/rampstackco/claude-skills) | Full catalog | 102 |
 | [claude-skills-seo](https://github.com/rampstackco/claude-skills-seo) | SEO consulting | 12 |
 | [claude-skills-pm](https://github.com/rampstackco/claude-skills-pm) | Product management | 12 |
 | [claude-skills-widgets](https://github.com/rampstackco/claude-skills-widgets) | UI patterns + components | 65 + 32 |
@@ -111,7 +111,7 @@ MIT. Use freely in commercial and non-commercial projects. See [LICENSE](LICENSE
 
 ## Source attribution
 
-Every skill in this repository is copied verbatim from the [claude-skills](https://github.com/rampstackco/claude-skills) catalog, where all 99 skills live in a single flat `skills/` directory. This starter repo keeps the same flat structure. No skill content has been modified; updates flow from the source repository.
+Every skill in this repository is copied verbatim from the [claude-skills](https://github.com/rampstackco/claude-skills) catalog, where all 102 skills live in a single flat `skills/` directory. This starter repo keeps the same flat structure. No skill content has been modified; updates flow from the source repository.
 
 The 14 skills in this starter set:
 
