@@ -21,6 +21,14 @@ claude-skills-starter solves this with 14 broadly useful skills covering the mos
 
 When you outgrow the starter set, the full catalog is one repo away.
 
+## Trust and security
+
+These skills are a curated starter set of
+[rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) and
+follow the same review and integrity process. Each file is hashed in
+`SKILLS.lock` for verification. To report a security issue, see the
+[security policy](https://github.com/rampstackco/claude-skills/security/policy).
+
 ## What's included
 
 ### Development and QA (3 skills)

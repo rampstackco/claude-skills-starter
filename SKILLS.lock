@@ -1,0 +1,78 @@
+{
+  "accessibility-audit": {
+    "SKILL.md": "4261e12c948d0832ac8c14431df3b40d2feb4b126356e4215be223ef64688503",
+    "references/aria-patterns.md": "de9cb4934e62903d7d1676b4d4166a43f47e742bdcfd247ca8364c697b779b63",
+    "references/audit-report-template.md": "0ed3d29c53a7f25ad2a72f5918181fd7f7e871d3253e3c66816baac425e09b87",
+    "references/wcag-quick-reference.md": "4d70c669894200c64c9940dbec2ddf959173d7ad8d9dcb594206ea0c18d3cd8e"
+  },
+  "code-review-web": {
+    "SKILL.md": "1833c32ede91b3cc8fbda7ddc69de495c8f4bf4a6af3044d0b94c4249472efbd",
+    "references/nextjs-patterns.md": "afdaa25a148693f8209a36c7e5690a7389d0e5490f61781092b9eba6d322836f",
+    "references/review-template.md": "0ca48f838085ee176dc8098618aa1f8681bbc7f1c5d787464cf087f8282c2f8e",
+    "references/wordpress-headless-patterns.md": "28ebedafeccf5b3b672d23b9e0551d9ac6a61780bc709f12963cd08b3fc54b8c"
+  },
+  "content-and-copy": {
+    "SKILL.md": "81daa6c8e6c4ec9470aecfde499c2105bf199f7989ba732f317b7e0002198614",
+    "references/content-brief-template.md": "a487a56e9d243bf47f4871fad371779a92416507157d1b2c6138bc8d0382c7a0",
+    "references/content-edit-checklist.md": "050aef4e1a1476bc36f9f368d147810ad54d7ed22bca6ca0ecb281f77840f2f9"
+  },
+  "content-strategy": {
+    "SKILL.md": "ec5d8e51677956fb73ab58a8bf7c0279c1ddbcef70bedae70c4b75527bcdc3ad",
+    "references/content-strategy-template.md": "6707df3af82ddf656f3aeb945359ec9df0852e63c49590516d569581fe5a946a",
+    "references/editorial-calendar-template.md": "feb36bd8373c725f6a13418457e872cca7f63fe7256189233644338453d3130e"
+  },
+  "cro-optimization": {
+    "SKILL.md": "01c7b12c4627a5f4898c4cb0dda7cbd94c5b7c32f8771478eb87cf3d9f0980c1",
+    "references/hypothesis-library.md": "a3a83b4596344c15eaf3f05b0ef165dd023c8e85f15e01cbb0abb60e64a68c98"
+  },
+  "design-standards": {
+    "SKILL.md": "39d0e08ebf96c75330accefc409000df9155c7d8ae094a3121ae1c6083e764ff",
+    "references/design-tokens-template.md": "c685d2f7f977f1e87293dfe796965bd1af73e240e9d69fefeff8276f2e3ccaf0",
+    "references/preship-checklist.md": "1309a7808768d6628453b2e5b5d88a4728ded7491472c9b4af2d167f0dd0e6f6",
+    "references/tailwind-patterns.md": "bb402ade1ebef7cea5a703d84bafa331a88ea2ff64f0cf8079639689522213c0"
+  },
+  "frontend-component-build": {
+    "SKILL.md": "32c9a8c1e655649fd691f01ca33f80bf9efd0d75b9530f3f2000880bf807d34f",
+    "references/accessibility-patterns.md": "75cd55f7f18e62c7fbf2f14a7cb2d5dc6bbfb48ca307a6f7141648e0e4c962f8",
+    "references/component-api-patterns.md": "e778bea47205bf1e3542f07d9e267097f1d2b3c7aa0e7ad7d44e13e327c95ead",
+    "references/component-spec-template.md": "eac4ca7e0f61e9bbece7138c51813f518b4d8e33a1d4283535b123bf589279cb"
+  },
+  "performance-optimization": {
+    "SKILL.md": "197dff3e07f0a2ec39f8e043232c4a8a8957c16491a7126997ac43b1537c8ad0",
+    "references/audit-template.md": "d260fcce01ba0b8ba6bd858498cb774744a17ec4411cffb2f69b68e6ea2e9d0f",
+    "references/optimization-checklist.md": "ed962ef8d94a9d86d8ae42020c573890fe9572504da5504915204afb0785a267",
+    "references/optimization-playbook.md": "83ec500dea69fde32516886089ad1f90a267a1944c0e0f1985d51976bf6082ec"
+  },
+  "pm-spec-writing": {
+    "SKILL.md": "a0863ad6146f264d311d75e2678e400930b40bf377b34403dafdf3b18246f957",
+    "references/dev-brief-template.md": "4c253a2a71243d65407de0098323fbc542ba72f03c572ed41df8c5189d2e9f31",
+    "references/feature-spec-template.md": "f9b19f192d9e65b6882e97aaf23f4b1862a46a39d2e9f8b86eb6562aec55fe13",
+    "references/prioritization-frameworks.md": "b8b7696ecc60f95d56ce2c91cf67d32b4aed6e9432db90eba319935431cd7e8a"
+  },
+  "qa-testing": {
+    "SKILL.md": "605f8489de7d3860b01056be0d4380ca5753ec3cca4baab4e8b957a9c28ad85b",
+    "references/qa-report-template.md": "241fbc871bfee946964decd1496e0ec4ad87861e8a77a8ca0565e3559c358358"
+  },
+  "seo-aeo-geo": {
+    "SKILL.md": "573caeaa6d9e988fb7539bb79c397756ca7fb4645ab4f79a69d3a14017988529",
+    "references/extraction-friendly-patterns.md": "85b0653394d246a848e1bec3c6595d4d19f6156e209de66871aea07e0883490f",
+    "references/llms-txt-guide.md": "008c48e172172ae440564956e7486014b91fdd93831bdcdc52e2dfbae3a00063"
+  },
+  "seo-keyword": {
+    "SKILL.md": "376462a53fb1bbbbb08fe89f745c7d8c647863c9bb64e8b4d7751738e141169e",
+    "references/intent-classification-guide.md": "8570e2862107ee41e856f47d8410a07182329751f21861b0c32bb0ea692e6c01",
+    "references/keyword-research-template.md": "68d252b32e2c977a8ecf5bf2b5c9583316e6aaff3cdb257a7cd362ba3d1c57c5"
+  },
+  "seo-onpage": {
+    "SKILL.md": "06e7759b22585cb673b44a492b7343ebb9f345669fca60fe509706602587077b",
+    "references/audit-template.md": "e533f58b133340d11467232c5303a42e0467b723975a82de10965f34dcb41071",
+    "references/onpage-checklist.md": "4d2938783d3ac9a6a4f942b732bf752d031f13f83275baaa01e71df11245d21d",
+    "references/title-and-meta-patterns.md": "174d10417509e11d5c3654d0e4e018343f79e5bec317fa55d8003f7988c67ae6"
+  },
+  "skill-creation-walkthrough": {
+    "SKILL.md": "d9562ff1d9ee3620cf728d0b7a062f2cc1a58508fcf9043b344bf23805e5608e",
+    "references/description-cookbook.md": "b174690a9064f7b0cddb6aa289951321ecf96c34a7e18eed3307741fc0c76688",
+    "references/methodology-vs-implementation.md": "f4fc2991e1ee8cafc3ed976dc3bbab10ceaee3a362df7e9b9461f9f491f64557",
+    "references/skill-template.md": "f0e0e61d8183b9ad71179a060d99bea7f997f70f2e58e0d191491200f3213a93"
+  }
+}
