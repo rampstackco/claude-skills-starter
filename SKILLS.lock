@@ -1,6 +1,6 @@
 {
   "accessibility-audit": {
-    "SKILL.md": "4261e12c948d0832ac8c14431df3b40d2feb4b126356e4215be223ef64688503",
+    "SKILL.md": "1c599e4a84886f67f9ab1c60ec7d95a9289b17d3a948e5d8c227bdfcb082a1e3",
     "references/aria-patterns.md": "de9cb4934e62903d7d1676b4d4166a43f47e742bdcfd247ca8364c697b779b63",
     "references/audit-report-template.md": "0ed3d29c53a7f25ad2a72f5918181fd7f7e871d3253e3c66816baac425e09b87",
     "references/wcag-quick-reference.md": "4d70c669894200c64c9940dbec2ddf959173d7ad8d9dcb594206ea0c18d3cd8e"
@@ -9,7 +9,7 @@
     "SKILL.md": "1833c32ede91b3cc8fbda7ddc69de495c8f4bf4a6af3044d0b94c4249472efbd",
     "references/nextjs-patterns.md": "afdaa25a148693f8209a36c7e5690a7389d0e5490f61781092b9eba6d322836f",
     "references/review-template.md": "0ca48f838085ee176dc8098618aa1f8681bbc7f1c5d787464cf087f8282c2f8e",
-    "references/wordpress-headless-patterns.md": "28ebedafeccf5b3b672d23b9e0551d9ac6a61780bc709f12963cd08b3fc54b8c"
+    "references/wordpress-headless-patterns.md": "d3bb754f3208e2db38fbaade7053e90e6a0b4525745dfad83c63325b7af699e3"
   },
   "content-and-copy": {
     "SKILL.md": "81daa6c8e6c4ec9470aecfde499c2105bf199f7989ba732f317b7e0002198614",
@@ -17,12 +17,12 @@
     "references/content-edit-checklist.md": "050aef4e1a1476bc36f9f368d147810ad54d7ed22bca6ca0ecb281f77840f2f9"
   },
   "content-strategy": {
-    "SKILL.md": "ec5d8e51677956fb73ab58a8bf7c0279c1ddbcef70bedae70c4b75527bcdc3ad",
+    "SKILL.md": "a4babe955d187232db9526e14a1f12f2b8e6f1c1b7f5a06e67bba5fbb14dc9ab",
     "references/content-strategy-template.md": "6707df3af82ddf656f3aeb945359ec9df0852e63c49590516d569581fe5a946a",
     "references/editorial-calendar-template.md": "feb36bd8373c725f6a13418457e872cca7f63fe7256189233644338453d3130e"
   },
   "cro-optimization": {
-    "SKILL.md": "01c7b12c4627a5f4898c4cb0dda7cbd94c5b7c32f8771478eb87cf3d9f0980c1",
+    "SKILL.md": "477496915d2c6a184bfff9cd337608eb8fde82ec5e7f20c398178240efa68cb0",
     "references/hypothesis-library.md": "a3a83b4596344c15eaf3f05b0ef165dd023c8e85f15e01cbb0abb60e64a68c98"
   },
   "design-standards": {
@@ -38,28 +38,28 @@
     "references/component-spec-template.md": "eac4ca7e0f61e9bbece7138c51813f518b4d8e33a1d4283535b123bf589279cb"
   },
   "performance-optimization": {
-    "SKILL.md": "197dff3e07f0a2ec39f8e043232c4a8a8957c16491a7126997ac43b1537c8ad0",
+    "SKILL.md": "896161a06b87cd83566bb4302c2154b3ed57ef4b3bba027f86cfed17c807f325",
     "references/audit-template.md": "d260fcce01ba0b8ba6bd858498cb774744a17ec4411cffb2f69b68e6ea2e9d0f",
     "references/optimization-checklist.md": "ed962ef8d94a9d86d8ae42020c573890fe9572504da5504915204afb0785a267",
     "references/optimization-playbook.md": "83ec500dea69fde32516886089ad1f90a267a1944c0e0f1985d51976bf6082ec"
   },
   "pm-spec-writing": {
-    "SKILL.md": "a0863ad6146f264d311d75e2678e400930b40bf377b34403dafdf3b18246f957",
+    "SKILL.md": "17c08255d5ba55c2b531b4cfa156e68a52dfc7b8af1a014beb84e4416a13ff68",
     "references/dev-brief-template.md": "4c253a2a71243d65407de0098323fbc542ba72f03c572ed41df8c5189d2e9f31",
     "references/feature-spec-template.md": "f9b19f192d9e65b6882e97aaf23f4b1862a46a39d2e9f8b86eb6562aec55fe13",
     "references/prioritization-frameworks.md": "b8b7696ecc60f95d56ce2c91cf67d32b4aed6e9432db90eba319935431cd7e8a"
   },
   "qa-testing": {
-    "SKILL.md": "605f8489de7d3860b01056be0d4380ca5753ec3cca4baab4e8b957a9c28ad85b",
-    "references/qa-report-template.md": "241fbc871bfee946964decd1496e0ec4ad87861e8a77a8ca0565e3559c358358"
+    "SKILL.md": "5984941bca7a14fc4cbd4040c903b01f609e68b6a9d8ccf38713877e92caed96",
+    "references/qa-report-template.md": "31d1c63aa41ae736dcb10d9da93f96abdcb261606d265ace37452cc1a3bf8091"
   },
   "seo-aeo-geo": {
-    "SKILL.md": "573caeaa6d9e988fb7539bb79c397756ca7fb4645ab4f79a69d3a14017988529",
+    "SKILL.md": "813fb96dafaba986eaf1d564b6c0194e58f7161181f802406165d0f7d68c8d56",
     "references/extraction-friendly-patterns.md": "85b0653394d246a848e1bec3c6595d4d19f6156e209de66871aea07e0883490f",
     "references/llms-txt-guide.md": "008c48e172172ae440564956e7486014b91fdd93831bdcdc52e2dfbae3a00063"
   },
   "seo-keyword": {
-    "SKILL.md": "376462a53fb1bbbbb08fe89f745c7d8c647863c9bb64e8b4d7751738e141169e",
+    "SKILL.md": "48b2ba227409a42749454c9ee5e579581435a3e51b6305ba1de0fea729700ad0",
     "references/intent-classification-guide.md": "8570e2862107ee41e856f47d8410a07182329751f21861b0c32bb0ea692e6c01",
     "references/keyword-research-template.md": "68d252b32e2c977a8ecf5bf2b5c9583316e6aaff3cdb257a7cd362ba3d1c57c5"
   },
