@@ -300,3 +300,5 @@ This skill's output depends on data, measurements, or tool results it cannot gen
 ## Reference files
 
 - [`references/qa-report-template.md`](references/qa-report-template.md) - Markdown report template for standard and full audits.
+
+Planted parity-test line. Reverted in the next commit.

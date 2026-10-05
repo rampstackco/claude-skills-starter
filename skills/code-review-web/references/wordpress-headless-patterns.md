@@ -263,3 +263,5 @@ const res = await fetch(`${WP_API_URL}/wp/v2/posts?_embed=true`);
 - [ ] Pagination handled for large post lists
 - [ ] Error handling for API failures (CMS down should not crash the frontend)
 - [ ] Custom fields exposed via REST API where needed
+
+Planted parity-test line. Reverted in the next commit.
