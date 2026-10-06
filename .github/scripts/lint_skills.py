@@ -4,9 +4,9 @@ Lint script for the Claude Skills Starter catalog.
 
 Adapted from the claude-skills repository linter. Two checks from the
 source linter are intentionally omitted because this repo is a curated
-14-skill subset rather than the full catalog:
+subset rather than the full catalog:
 - check_cross_skill_references: skills here legitimately reference the
-  other ~85 skills that live only in the full claude-skills catalog.
+  other skills that live only in the full claude-skills catalog.
 - check_readme_catalog_generated: this repo has a hand-written README,
   not one produced by a generator script.
 
